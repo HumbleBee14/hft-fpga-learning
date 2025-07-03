@@ -6,6 +6,12 @@ This project is entirely simulation-based: **no physical FPGA hardware is requir
 
 ---
 
+## 🎯 Learning Objective
+
+**Learning Low Latency, Systems level understanding from both software and hardware perspective!**
+
+---
+
 ## 🚀 What This Repository Covers
 
 * Simulated design of low-latency trading pipelines (tick-to-trade)
